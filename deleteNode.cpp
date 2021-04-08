@@ -1,10 +1,5 @@
 
-//Definition for singly-linked list.
-struct ListNode {
-      int val;
-      ListNode *next;
-      ListNode(int x) : val(x), next(nullptr) {}
-};
+#include"data.h"
 /*
  ‰»Î: head = [4,5,1,9], val = 5
  ‰≥ˆ: [4,1,9]
